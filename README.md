@@ -16,25 +16,11 @@ as comments) if the specs are unclear.
 
 We would like for you to do one of the following to complete this task:
 
-1. create a github account if you don't already have one (it is free)
-
-2. fork this project (this will copy this project to your account)
-
-3. pull down the code to your local machine and complete the exercises
-
-4. commit your changes and push your code back up to your repo on github
-
-5. send me an email and let me know you are done.
-
-or if you don't want to use github (because it is generally available
-for anyone to view), then you can do the following:
-
-1. pull down this code to your local machine and complete the exercises
+1. clone down this code to your local machine and complete the exercises
 
 2. zip up your version of the code and email it to ed-hill@uiowa.edu
 
-I'll ask the interview team to review your code and I'll let you know 
-when we are done so that you can delete the repository if you wish.
+I'll share your code with the rest of the interview team once I receive it.
 
 If you have any questions or problems, please let me know
 
