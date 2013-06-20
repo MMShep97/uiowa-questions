@@ -20,6 +20,10 @@ We would like for you to do one of the following to complete this task:
 
 2. zip up your version of the code and email it back to me.
 
+Please note that if you "fork" this repo, you are potentially exposing
+youself as someone working on these exercises.  If that is a concern to you
+clone it locally or just pull down the data you need from these web pages.
+
 I'll share your code with the rest of the interview team once I receive it.
 
 If you have any questions or problems, please let me know
