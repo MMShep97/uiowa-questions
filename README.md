@@ -18,12 +18,10 @@ We would like for you to do one of the following to complete this task:
 
 1. clone down this code to your local machine and complete the exercises
 
-2. zip up your version of the code and email it to ed-hill@uiowa.edu
+2. zip up your version of the code and email it back to me.
 
 I'll share your code with the rest of the interview team once I receive it.
 
 If you have any questions or problems, please let me know
 
-
--Ed Hill (ed-hill@uiowa.edu)
-Software Developer, The University of Iowa
+-Ed
