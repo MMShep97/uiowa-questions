@@ -8,11 +8,11 @@ field.
 
 We would like for you to answer the following questions from this data:
 
-1) how many counties did not send students to the U of Iowa, and which counties were they?
+1. how many counties did not send students to the U of Iowa, and which counties were they?
 
-2) which counties send the most students to the U of Iowa per capitia?
+2. which counties send the most students to the U of Iowa per capitia?
 
-3) identify something "interesting" in the data.  This is open ended and can be anything
+3. identify something "interesting" in the data.  This is open ended and can be anything
    you want to draw attention to.  While I've seeded the data in certain ways, I'm not 
    looking for any particular answer (I'm not hiding a single needle in the haystack that
    you are expected to find)
