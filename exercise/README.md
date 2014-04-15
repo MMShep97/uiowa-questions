@@ -16,7 +16,7 @@ We would like you to build a java application that can create a pivot table for 
 We are not providing all of the information you need to answer the questions, but you should be able to research what you need to complete the exercise.
 
 You can use any tools or approaches that you are comfortable with, including:
-- Eclipse, NetBeans, Atom, subtext, vi, ANT, Maven 
+- Eclipse, NetBeans, IntelliJ, vi, ANT, Maven 
 - loading the data into a database and using SQL
 - or something we are not considering.
 
