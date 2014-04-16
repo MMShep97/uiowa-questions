@@ -1,4 +1,4 @@
-# col=RESIDING_STATE, row=RESIDING_CITY, first 5 rows
+# col=RESIDING_CITY, row=ACT, first 5 rows
 ACT,Pottawattamie,Polk,Keokuk
 31,1,0,0
 23,0,1,0
