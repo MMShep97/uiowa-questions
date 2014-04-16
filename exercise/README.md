@@ -20,6 +20,9 @@ You can use any tools or approaches that you are comfortable with, including:
 - loading the data into a database and using SQL
 - or something we are not considering.
 
+
+See the fake-output.csv for an example of the first 5 rows
+
 Please describe the approach you used, and let me know if you have any questions.
 
 --Jimmy
