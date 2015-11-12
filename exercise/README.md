@@ -5,7 +5,7 @@ For this exercise, I'm providing you an example set of data that is meant to
 represent all applicants from the state of Iowa (it is test data).  The data
 is provided in the test-data.csv file with the first row describing that particular field.
 
-We would like you to build a java application that can create a [pivot table](http://en.wikipedia.org/wiki/Pivot_table) for the CSV file. The application should allow the user to:
+We would like you to build an application that can create a [pivot table](http://en.wikipedia.org/wiki/Pivot_table) for the CSV file. The application should allow the user to:
 
 1. Load a file from a prompt or command line parameter
 
