@@ -1,7 +1,6 @@
-# col=RESIDING_CITY, row=ACT, first 5 rows
-ACT,Pottawattamie,Polk,Keokuk
-31,1,0,0
-23,0,1,0
-21,0,1,0
-20,0,0,1
-25,0,0,1
+zip_code	count
+50001	1
+50002	1
+50003	6
+50009	9
+50021	12
